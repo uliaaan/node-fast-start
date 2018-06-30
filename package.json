@@ -1,0 +1,17 @@
+{
+  "name": "node-fast-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Uliaaan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.1.6",
+    "path": "^0.12.7"
+  }
+}
